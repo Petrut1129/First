@@ -19,5 +19,5 @@ cin >> c;
     int unu = ( 0 - b + x ) / ( 2*a );                      // unu = X1
     int doi = ( 0 - b - x ) / ( 2*a );                      // doi = X2
   cout << "X1 = " << unu << endl;
-  cout << "X2 = " << doi << endl;  
+  cout << "X2 = " << doi << endl;   
 }  
